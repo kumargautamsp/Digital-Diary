@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Downloads\\FineBlog\\FineBlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|f:\\downloads\\fineblog\\fineblog\\fineblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|solutionrelative:fineblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|f:\\downloads\\fineblog\\fineblog\\fineblog\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|solutionrelative:fineblog\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|f:\\downloads\\fineblog\\fineblog\\fineblog\\views\\page\\layoutnull.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|solutionrelative:fineblog\\views\\page\\layoutnull.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|f:\\downloads\\fineblog\\fineblog\\fineblog\\controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|solutionrelative:fineblog\\controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|f:\\downloads\\fineblog\\fineblog\\fineblog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|solutionrelative:fineblog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|f:\\downloads\\fineblog\\fineblog\\fineblog\\views\\home\\mine.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|solutionrelative:fineblog\\views\\home\\mine.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|f:\\downloads\\fineblog\\fineblog\\fineblog\\fineblog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|solutionrelative:fineblog\\fineblog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|f:\\downloads\\fineblog\\fineblog\\fineblog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|solutionrelative:fineblog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|f:\\downloads\\fineblog\\fineblog\\fineblog\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|solutionrelative:fineblog\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|f:\\downloads\\fineblog\\fineblog\\fineblog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|solutionrelative:fineblog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|f:\\downloads\\fineblog\\fineblog\\fineblog\\areas\\admin\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|solutionrelative:fineblog\\areas\\admin\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|f:\\downloads\\fineblog\\fineblog\\fineblog\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|solutionrelative:fineblog\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|f:\\downloads\\fineblog\\fineblog\\fineblog\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CA6E15-BECD-4D76-88D9-EB8C94DED30F}|FineBlog\\FineBlog.csproj|solutionrelative:fineblog\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FineBlog.csproj",
+              "DocumentMoniker": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\FineBlog.csproj",
+              "RelativeDocumentMoniker": "FineBlog\\FineBlog.csproj",
+              "ToolTip": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\FineBlog.csproj",
+              "RelativeToolTip": "FineBlog\\FineBlog.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T09:45:37.613Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "FineBlog\\Models\\ApplicationUser.cs",
+              "ToolTip": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "FineBlog\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:51:54.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "layoutnull.cshtml",
+              "DocumentMoniker": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Views\\Page\\layoutnull.cshtml",
+              "RelativeDocumentMoniker": "FineBlog\\Views\\Page\\layoutnull.cshtml",
+              "ToolTip": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Views\\Page\\layoutnull.cshtml",
+              "RelativeToolTip": "FineBlog\\Views\\Page\\layoutnull.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T05:48:46.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PageController.cs",
+              "DocumentMoniker": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Controllers\\PageController.cs",
+              "RelativeDocumentMoniker": "FineBlog\\Controllers\\PageController.cs",
+              "ToolTip": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Controllers\\PageController.cs",
+              "RelativeToolTip": "FineBlog\\Controllers\\PageController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwDcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:46:57.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FineBlog\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FineBlog\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAABUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T17:56:02.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mine.cshtml",
+              "DocumentMoniker": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Views\\Home\\Mine.cshtml",
+              "RelativeDocumentMoniker": "FineBlog\\Views\\Home\\Mine.cshtml",
+              "ToolTip": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Views\\Home\\Mine.cshtml",
+              "RelativeToolTip": "FineBlog\\Views\\Home\\Mine.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T05:09:20.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Program.cs",
+              "RelativeDocumentMoniker": "FineBlog\\Program.cs",
+              "ToolTip": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Program.cs",
+              "RelativeToolTip": "FineBlog\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:03:27.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "FineBlog\\Controllers\\BlogController.cs",
+              "ToolTip": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "FineBlog\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T20:09:05.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FineBlog\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FineBlog\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T20:14:24.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\appsettings.json",
+              "RelativeDocumentMoniker": "FineBlog\\appsettings.json",
+              "ToolTip": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\appsettings.json",
+              "RelativeToolTip": "FineBlog\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T09:42:14.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FineBlog\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FineBlog\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAALcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T10:07:19.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "FineBlog\\ViewModels\\LoginVM.cs",
+              "ToolTip": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "FineBlog\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:07:50.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginLayout.cshtml",
+              "DocumentMoniker": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Areas\\Admin\\Views\\Shared\\_LoginLayout.cshtml",
+              "RelativeDocumentMoniker": "FineBlog\\Areas\\Admin\\Views\\Shared\\_LoginLayout.cshtml",
+              "ToolTip": "F:\\Downloads\\FineBlog\\FineBlog\\FineBlog\\Areas\\Admin\\Views\\Shared\\_LoginLayout.cshtml",
+              "RelativeToolTip": "FineBlog\\Areas\\Admin\\Views\\Shared\\_LoginLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T10:06:56.203Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
